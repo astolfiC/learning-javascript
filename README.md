@@ -1,2 +1,1 @@
-Repository learning-javascript contenente:
-index.html
+Repository learning-gavascript con index.html 
